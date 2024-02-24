@@ -1,0 +1,1190 @@
+,Book,Chapter,Number of Verses
+0,Genesis,1,31
+1,Genesis,2,25
+2,Genesis,3,24
+3,Genesis,4,26
+4,Genesis,5,32
+5,Genesis,6,22
+6,Genesis,7,24
+7,Genesis,8,22
+8,Genesis,9,29
+9,Genesis,10,32
+10,Genesis,11,32
+11,Genesis,12,20
+12,Genesis,13,18
+13,Genesis,14,24
+14,Genesis,15,21
+15,Genesis,16,16
+16,Genesis,17,27
+17,Genesis,18,33
+18,Genesis,19,38
+19,Genesis,20,18
+20,Genesis,21,34
+21,Genesis,22,24
+22,Genesis,23,20
+23,Genesis,24,67
+24,Genesis,25,34
+25,Genesis,26,35
+26,Genesis,27,46
+27,Genesis,28,22
+28,Genesis,29,35
+29,Genesis,30,43
+30,Genesis,31,55
+31,Genesis,32,32
+32,Genesis,33,20
+33,Genesis,34,31
+34,Genesis,35,29
+35,Genesis,36,43
+36,Genesis,37,36
+37,Genesis,38,30
+38,Genesis,39,23
+39,Genesis,40,23
+40,Genesis,41,57
+41,Genesis,42,38
+42,Genesis,43,34
+43,Genesis,44,34
+44,Genesis,45,28
+45,Genesis,46,34
+46,Genesis,47,31
+47,Genesis,48,22
+48,Genesis,49,33
+49,Genesis,50,26
+50,Exodus,1,22
+51,Exodus,2,25
+52,Exodus,3,22
+53,Exodus,4,31
+54,Exodus,5,23
+55,Exodus,6,30
+56,Exodus,7,25
+57,Exodus,8,32
+58,Exodus,9,35
+59,Exodus,10,29
+60,Exodus,11,10
+61,Exodus,12,51
+62,Exodus,13,22
+63,Exodus,14,31
+64,Exodus,15,27
+65,Exodus,16,36
+66,Exodus,17,16
+67,Exodus,18,27
+68,Exodus,19,25
+69,Exodus,20,26
+70,Exodus,21,36
+71,Exodus,22,31
+72,Exodus,23,33
+73,Exodus,24,18
+74,Exodus,25,40
+75,Exodus,26,37
+76,Exodus,27,21
+77,Exodus,28,43
+78,Exodus,29,46
+79,Exodus,30,38
+80,Exodus,31,18
+81,Exodus,32,35
+82,Exodus,33,23
+83,Exodus,34,35
+84,Exodus,35,35
+85,Exodus,36,38
+86,Exodus,37,29
+87,Exodus,38,31
+88,Exodus,39,43
+89,Exodus,40,38
+90,Leviticus,1,17
+91,Leviticus,2,16
+92,Leviticus,3,17
+93,Leviticus,4,35
+94,Leviticus,5,19
+95,Leviticus,6,30
+96,Leviticus,7,38
+97,Leviticus,8,36
+98,Leviticus,9,24
+99,Leviticus,10,20
+100,Leviticus,11,47
+101,Leviticus,12,8
+102,Leviticus,13,59
+103,Leviticus,14,57
+104,Leviticus,15,33
+105,Leviticus,16,34
+106,Leviticus,17,16
+107,Leviticus,18,30
+108,Leviticus,19,37
+109,Leviticus,20,27
+110,Leviticus,21,24
+111,Leviticus,22,33
+112,Leviticus,23,44
+113,Leviticus,24,23
+114,Leviticus,25,55
+115,Leviticus,26,46
+116,Leviticus,27,34
+117,Numbers,1,54
+118,Numbers,2,34
+119,Numbers,3,51
+120,Numbers,4,49
+121,Numbers,5,31
+122,Numbers,6,27
+123,Numbers,7,89
+124,Numbers,8,26
+125,Numbers,9,23
+126,Numbers,10,36
+127,Numbers,11,35
+128,Numbers,12,16
+129,Numbers,13,33
+130,Numbers,14,45
+131,Numbers,15,41
+132,Numbers,16,50
+133,Numbers,17,13
+134,Numbers,18,32
+135,Numbers,19,22
+136,Numbers,20,29
+137,Numbers,21,35
+138,Numbers,22,41
+139,Numbers,23,30
+140,Numbers,24,25
+141,Numbers,25,18
+142,Numbers,26,65
+143,Numbers,27,23
+144,Numbers,28,31
+145,Numbers,29,40
+146,Numbers,30,16
+147,Numbers,31,54
+148,Numbers,32,42
+149,Numbers,33,56
+150,Numbers,34,29
+151,Numbers,35,34
+152,Numbers,36,13
+153,Deuteronomy,1,46
+154,Deuteronomy,2,37
+155,Deuteronomy,3,29
+156,Deuteronomy,4,49
+157,Deuteronomy,5,33
+158,Deuteronomy,6,25
+159,Deuteronomy,7,26
+160,Deuteronomy,8,20
+161,Deuteronomy,9,29
+162,Deuteronomy,10,22
+163,Deuteronomy,11,32
+164,Deuteronomy,12,32
+165,Deuteronomy,13,18
+166,Deuteronomy,14,29
+167,Deuteronomy,15,23
+168,Deuteronomy,16,22
+169,Deuteronomy,17,20
+170,Deuteronomy,18,22
+171,Deuteronomy,19,21
+172,Deuteronomy,20,20
+173,Deuteronomy,21,23
+174,Deuteronomy,22,30
+175,Deuteronomy,23,25
+176,Deuteronomy,24,22
+177,Deuteronomy,25,19
+178,Deuteronomy,26,19
+179,Deuteronomy,27,26
+180,Deuteronomy,28,68
+181,Deuteronomy,29,29
+182,Deuteronomy,30,20
+183,Deuteronomy,31,30
+184,Deuteronomy,32,52
+185,Deuteronomy,33,29
+186,Deuteronomy,34,12
+187,Joshua,1,18
+188,Joshua,2,24
+189,Joshua,3,17
+190,Joshua,4,24
+191,Joshua,5,15
+192,Joshua,6,27
+193,Joshua,7,26
+194,Joshua,8,35
+195,Joshua,9,27
+196,Joshua,10,43
+197,Joshua,11,23
+198,Joshua,12,24
+199,Joshua,13,33
+200,Joshua,14,15
+201,Joshua,15,63
+202,Joshua,16,10
+203,Joshua,17,18
+204,Joshua,18,28
+205,Joshua,19,51
+206,Joshua,20,9
+207,Joshua,21,45
+208,Joshua,22,34
+209,Joshua,23,16
+210,Joshua,24,33
+211,Judges,1,36
+212,Judges,2,23
+213,Judges,3,31
+214,Judges,4,24
+215,Judges,5,31
+216,Judges,6,40
+217,Judges,7,25
+218,Judges,8,35
+219,Judges,9,57
+220,Judges,10,18
+221,Judges,11,40
+222,Judges,12,15
+223,Judges,13,25
+224,Judges,14,20
+225,Judges,15,20
+226,Judges,16,31
+227,Judges,17,13
+228,Judges,18,31
+229,Judges,19,30
+230,Judges,20,48
+231,Judges,21,25
+232,Ruth,1,22
+233,Ruth,2,23
+234,Ruth,3,18
+235,Ruth,4,22
+236,1 Samuel,1,28
+237,1 Samuel,2,36
+238,1 Samuel,3,21
+239,1 Samuel,4,22
+240,1 Samuel,5,12
+241,1 Samuel,6,21
+242,1 Samuel,7,17
+243,1 Samuel,8,22
+244,1 Samuel,9,27
+245,1 Samuel,10,27
+246,1 Samuel,11,15
+247,1 Samuel,12,25
+248,1 Samuel,13,23
+249,1 Samuel,14,52
+250,1 Samuel,15,35
+251,1 Samuel,16,23
+252,1 Samuel,17,58
+253,1 Samuel,18,30
+254,1 Samuel,19,24
+255,1 Samuel,20,42
+256,1 Samuel,21,15
+257,1 Samuel,22,23
+258,1 Samuel,23,29
+259,1 Samuel,24,22
+260,1 Samuel,25,44
+261,1 Samuel,26,25
+262,1 Samuel,27,12
+263,1 Samuel,28,25
+264,1 Samuel,29,11
+265,1 Samuel,30,31
+266,1 Samuel,31,13
+267,2 Samuel,1,27
+268,2 Samuel,2,32
+269,2 Samuel,3,39
+270,2 Samuel,4,12
+271,2 Samuel,5,25
+272,2 Samuel,6,23
+273,2 Samuel,7,29
+274,2 Samuel,8,18
+275,2 Samuel,9,13
+276,2 Samuel,10,19
+277,2 Samuel,11,27
+278,2 Samuel,12,31
+279,2 Samuel,13,39
+280,2 Samuel,14,33
+281,2 Samuel,15,37
+282,2 Samuel,16,23
+283,2 Samuel,17,29
+284,2 Samuel,18,33
+285,2 Samuel,19,43
+286,2 Samuel,20,26
+287,2 Samuel,21,22
+288,2 Samuel,22,51
+289,2 Samuel,23,39
+290,2 Samuel,24,25
+291,1 Kings,1,53
+292,1 Kings,2,46
+293,1 Kings,3,28
+294,1 Kings,4,34
+295,1 Kings,5,18
+296,1 Kings,6,38
+297,1 Kings,7,51
+298,1 Kings,8,66
+299,1 Kings,9,28
+300,1 Kings,10,29
+301,1 Kings,11,43
+302,1 Kings,12,33
+303,1 Kings,13,34
+304,1 Kings,14,31
+305,1 Kings,15,34
+306,1 Kings,16,34
+307,1 Kings,17,24
+308,1 Kings,18,46
+309,1 Kings,19,21
+310,1 Kings,20,43
+311,1 Kings,21,29
+312,1 Kings,22,53
+313,2 Kings,1,18
+314,2 Kings,2,25
+315,2 Kings,3,27
+316,2 Kings,4,44
+317,2 Kings,5,27
+318,2 Kings,6,33
+319,2 Kings,7,20
+320,2 Kings,8,29
+321,2 Kings,9,37
+322,2 Kings,10,36
+323,2 Kings,11,21
+324,2 Kings,12,21
+325,2 Kings,13,25
+326,2 Kings,14,29
+327,2 Kings,15,38
+328,2 Kings,16,20
+329,2 Kings,17,41
+330,2 Kings,18,37
+331,2 Kings,19,37
+332,2 Kings,20,21
+333,2 Kings,21,26
+334,2 Kings,22,20
+335,2 Kings,23,37
+336,2 Kings,24,20
+337,2 Kings,25,30
+338,1 Chronicles,1,54
+339,1 Chronicles,2,55
+340,1 Chronicles,3,24
+341,1 Chronicles,4,43
+342,1 Chronicles,5,26
+343,1 Chronicles,6,81
+344,1 Chronicles,7,40
+345,1 Chronicles,8,40
+346,1 Chronicles,9,44
+347,1 Chronicles,10,14
+348,1 Chronicles,11,47
+349,1 Chronicles,12,40
+350,1 Chronicles,13,14
+351,1 Chronicles,14,17
+352,1 Chronicles,15,29
+353,1 Chronicles,16,43
+354,1 Chronicles,17,27
+355,1 Chronicles,18,17
+356,1 Chronicles,19,19
+357,1 Chronicles,20,8
+358,1 Chronicles,21,30
+359,1 Chronicles,22,19
+360,1 Chronicles,23,32
+361,1 Chronicles,24,31
+362,1 Chronicles,25,31
+363,1 Chronicles,26,32
+364,1 Chronicles,27,34
+365,1 Chronicles,28,21
+366,1 Chronicles,29,30
+367,2 Chronicles,1,17
+368,2 Chronicles,2,18
+369,2 Chronicles,3,17
+370,2 Chronicles,4,22
+371,2 Chronicles,5,14
+372,2 Chronicles,6,42
+373,2 Chronicles,7,22
+374,2 Chronicles,8,18
+375,2 Chronicles,9,31
+376,2 Chronicles,10,19
+377,2 Chronicles,11,23
+378,2 Chronicles,12,16
+379,2 Chronicles,13,22
+380,2 Chronicles,14,15
+381,2 Chronicles,15,19
+382,2 Chronicles,16,14
+383,2 Chronicles,17,19
+384,2 Chronicles,18,34
+385,2 Chronicles,19,11
+386,2 Chronicles,20,37
+387,2 Chronicles,21,20
+388,2 Chronicles,22,12
+389,2 Chronicles,23,21
+390,2 Chronicles,24,27
+391,2 Chronicles,25,28
+392,2 Chronicles,26,23
+393,2 Chronicles,27,9
+394,2 Chronicles,28,27
+395,2 Chronicles,29,36
+396,2 Chronicles,30,27
+397,2 Chronicles,31,21
+398,2 Chronicles,32,33
+399,2 Chronicles,33,25
+400,2 Chronicles,34,33
+401,2 Chronicles,35,27
+402,2 Chronicles,36,23
+403,Ezra,1,11
+404,Ezra,2,70
+405,Ezra,3,13
+406,Ezra,4,24
+407,Ezra,5,17
+408,Ezra,6,22
+409,Ezra,7,28
+410,Ezra,8,36
+411,Ezra,9,15
+412,Ezra,10,44
+413,Nehemiah,1,11
+414,Nehemiah,2,20
+415,Nehemiah,3,32
+416,Nehemiah,4,23
+417,Nehemiah,5,19
+418,Nehemiah,6,19
+419,Nehemiah,7,73
+420,Nehemiah,8,18
+421,Nehemiah,9,38
+422,Nehemiah,10,39
+423,Nehemiah,11,36
+424,Nehemiah,12,47
+425,Nehemiah,13,31
+426,Esther,1,22
+427,Esther,2,23
+428,Esther,3,15
+429,Esther,4,17
+430,Esther,5,14
+431,Esther,6,14
+432,Esther,7,10
+433,Esther,8,17
+434,Esther,9,32
+435,Esther,10,3
+436,Job,1,22
+437,Job,2,13
+438,Job,3,26
+439,Job,4,21
+440,Job,5,27
+441,Job,6,30
+442,Job,7,21
+443,Job,8,22
+444,Job,9,35
+445,Job,10,22
+446,Job,11,20
+447,Job,12,25
+448,Job,13,28
+449,Job,14,22
+450,Job,15,35
+451,Job,16,22
+452,Job,17,16
+453,Job,18,21
+454,Job,19,29
+455,Job,20,29
+456,Job,21,34
+457,Job,22,30
+458,Job,23,17
+459,Job,24,25
+460,Job,25,6
+461,Job,26,14
+462,Job,27,23
+463,Job,28,28
+464,Job,29,25
+465,Job,30,31
+466,Job,31,40
+467,Job,32,22
+468,Job,33,33
+469,Job,34,37
+470,Job,35,16
+471,Job,36,33
+472,Job,37,24
+473,Job,38,41
+474,Job,39,30
+475,Job,40,24
+476,Job,41,34
+477,Job,42,17
+478,Psalms,1,6
+479,Psalms,2,12
+480,Psalms,3,8
+481,Psalms,4,8
+482,Psalms,5,12
+483,Psalms,6,10
+484,Psalms,7,17
+485,Psalms,8,9
+486,Psalms,9,20
+487,Psalms,10,18
+488,Psalms,11,7
+489,Psalms,12,8
+490,Psalms,13,6
+491,Psalms,14,7
+492,Psalms,15,5
+493,Psalms,16,11
+494,Psalms,17,15
+495,Psalms,18,50
+496,Psalms,19,14
+497,Psalms,20,9
+498,Psalms,21,13
+499,Psalms,22,31
+500,Psalms,23,6
+501,Psalms,24,10
+502,Psalms,25,22
+503,Psalms,26,12
+504,Psalms,27,14
+505,Psalms,28,9
+506,Psalms,29,11
+507,Psalms,30,12
+508,Psalms,31,24
+509,Psalms,32,11
+510,Psalms,33,22
+511,Psalms,34,22
+512,Psalms,35,28
+513,Psalms,36,12
+514,Psalms,37,40
+515,Psalms,38,22
+516,Psalms,39,13
+517,Psalms,40,17
+518,Psalms,41,13
+519,Psalms,42,11
+520,Psalms,43,5
+521,Psalms,44,26
+522,Psalms,45,17
+523,Psalms,46,11
+524,Psalms,47,9
+525,Psalms,48,14
+526,Psalms,49,20
+527,Psalms,50,23
+528,Psalms,51,19
+529,Psalms,52,9
+530,Psalms,53,6
+531,Psalms,54,7
+532,Psalms,55,23
+533,Psalms,56,13
+534,Psalms,57,11
+535,Psalms,58,11
+536,Psalms,59,17
+537,Psalms,60,12
+538,Psalms,61,8
+539,Psalms,62,12
+540,Psalms,63,11
+541,Psalms,64,10
+542,Psalms,65,13
+543,Psalms,66,20
+544,Psalms,67,7
+545,Psalms,68,35
+546,Psalms,69,36
+547,Psalms,70,5
+548,Psalms,71,24
+549,Psalms,72,20
+550,Psalms,73,28
+551,Psalms,74,23
+552,Psalms,75,10
+553,Psalms,76,12
+554,Psalms,77,20
+555,Psalms,78,72
+556,Psalms,79,13
+557,Psalms,80,19
+558,Psalms,81,16
+559,Psalms,82,8
+560,Psalms,83,18
+561,Psalms,84,12
+562,Psalms,85,13
+563,Psalms,86,17
+564,Psalms,87,7
+565,Psalms,88,18
+566,Psalms,89,52
+567,Psalms,90,17
+568,Psalms,91,16
+569,Psalms,92,15
+570,Psalms,93,5
+571,Psalms,94,23
+572,Psalms,95,11
+573,Psalms,96,13
+574,Psalms,97,12
+575,Psalms,98,9
+576,Psalms,99,9
+577,Psalms,100,5
+578,Psalms,101,8
+579,Psalms,102,28
+580,Psalms,103,22
+581,Psalms,104,35
+582,Psalms,105,45
+583,Psalms,106,48
+584,Psalms,107,43
+585,Psalms,108,13
+586,Psalms,109,31
+587,Psalms,110,7
+588,Psalms,111,10
+589,Psalms,112,10
+590,Psalms,113,9
+591,Psalms,114,8
+592,Psalms,115,18
+593,Psalms,116,19
+594,Psalms,117,2
+595,Psalms,118,29
+596,Psalms,119,176
+597,Psalms,120,7
+598,Psalms,121,8
+599,Psalms,122,9
+600,Psalms,123,4
+601,Psalms,124,8
+602,Psalms,125,5
+603,Psalms,126,6
+604,Psalms,127,5
+605,Psalms,128,6
+606,Psalms,129,8
+607,Psalms,130,8
+608,Psalms,131,3
+609,Psalms,132,18
+610,Psalms,133,3
+611,Psalms,134,3
+612,Psalms,135,21
+613,Psalms,136,26
+614,Psalms,137,9
+615,Psalms,138,8
+616,Psalms,139,24
+617,Psalms,140,13
+618,Psalms,141,10
+619,Psalms,142,7
+620,Psalms,143,12
+621,Psalms,144,15
+622,Psalms,145,21
+623,Psalms,146,10
+624,Psalms,147,20
+625,Psalms,148,14
+626,Psalms,149,9
+627,Psalms,150,6
+628,Proverbs,1,33
+629,Proverbs,2,22
+630,Proverbs,3,35
+631,Proverbs,4,27
+632,Proverbs,5,23
+633,Proverbs,6,35
+634,Proverbs,7,27
+635,Proverbs,8,36
+636,Proverbs,9,18
+637,Proverbs,10,32
+638,Proverbs,11,31
+639,Proverbs,12,28
+640,Proverbs,13,25
+641,Proverbs,14,35
+642,Proverbs,15,33
+643,Proverbs,16,33
+644,Proverbs,17,28
+645,Proverbs,18,24
+646,Proverbs,19,29
+647,Proverbs,20,30
+648,Proverbs,21,31
+649,Proverbs,22,29
+650,Proverbs,23,35
+651,Proverbs,24,34
+652,Proverbs,25,28
+653,Proverbs,26,28
+654,Proverbs,27,27
+655,Proverbs,28,28
+656,Proverbs,29,27
+657,Proverbs,30,33
+658,Proverbs,31,31
+659,Ecclesiastes,1,18
+660,Ecclesiastes,2,26
+661,Ecclesiastes,3,22
+662,Ecclesiastes,4,16
+663,Ecclesiastes,5,20
+664,Ecclesiastes,6,12
+665,Ecclesiastes,7,29
+666,Ecclesiastes,8,17
+667,Ecclesiastes,9,18
+668,Ecclesiastes,10,20
+669,Ecclesiastes,11,10
+670,Ecclesiastes,12,14
+671,Song of Solomon,1,17
+672,Song of Solomon,2,17
+673,Song of Solomon,3,11
+674,Song of Solomon,4,16
+675,Song of Solomon,5,16
+676,Song of Solomon,6,13
+677,Song of Solomon,7,13
+678,Song of Solomon,8,14
+679,Isaiah,1,31
+680,Isaiah,2,22
+681,Isaiah,3,26
+682,Isaiah,4,6
+683,Isaiah,5,30
+684,Isaiah,6,13
+685,Isaiah,7,25
+686,Isaiah,8,22
+687,Isaiah,9,21
+688,Isaiah,10,34
+689,Isaiah,11,16
+690,Isaiah,12,6
+691,Isaiah,13,22
+692,Isaiah,14,32
+693,Isaiah,15,9
+694,Isaiah,16,14
+695,Isaiah,17,14
+696,Isaiah,18,7
+697,Isaiah,19,25
+698,Isaiah,20,6
+699,Isaiah,21,17
+700,Isaiah,22,25
+701,Isaiah,23,18
+702,Isaiah,24,23
+703,Isaiah,25,12
+704,Isaiah,26,21
+705,Isaiah,27,13
+706,Isaiah,28,29
+707,Isaiah,29,24
+708,Isaiah,30,33
+709,Isaiah,31,9
+710,Isaiah,32,20
+711,Isaiah,33,24
+712,Isaiah,34,17
+713,Isaiah,35,10
+714,Isaiah,36,22
+715,Isaiah,37,38
+716,Isaiah,38,22
+717,Isaiah,39,8
+718,Isaiah,40,31
+719,Isaiah,41,29
+720,Isaiah,42,25
+721,Isaiah,43,28
+722,Isaiah,44,28
+723,Isaiah,45,25
+724,Isaiah,46,13
+725,Isaiah,47,15
+726,Isaiah,48,22
+727,Isaiah,49,26
+728,Isaiah,50,11
+729,Isaiah,51,23
+730,Isaiah,52,15
+731,Isaiah,53,12
+732,Isaiah,54,17
+733,Isaiah,55,13
+734,Isaiah,56,12
+735,Isaiah,57,21
+736,Isaiah,58,14
+737,Isaiah,59,21
+738,Isaiah,60,22
+739,Isaiah,61,11
+740,Isaiah,62,12
+741,Isaiah,63,19
+742,Isaiah,64,12
+743,Isaiah,65,25
+744,Isaiah,66,24
+745,Jeremiah,1,19
+746,Jeremiah,2,37
+747,Jeremiah,3,25
+748,Jeremiah,4,31
+749,Jeremiah,5,31
+750,Jeremiah,6,30
+751,Jeremiah,7,34
+752,Jeremiah,8,22
+753,Jeremiah,9,26
+754,Jeremiah,10,25
+755,Jeremiah,11,23
+756,Jeremiah,12,17
+757,Jeremiah,13,27
+758,Jeremiah,14,22
+759,Jeremiah,15,21
+760,Jeremiah,16,21
+761,Jeremiah,17,27
+762,Jeremiah,18,23
+763,Jeremiah,19,15
+764,Jeremiah,20,18
+765,Jeremiah,21,14
+766,Jeremiah,22,30
+767,Jeremiah,23,40
+768,Jeremiah,24,10
+769,Jeremiah,25,38
+770,Jeremiah,26,24
+771,Jeremiah,27,22
+772,Jeremiah,28,17
+773,Jeremiah,29,32
+774,Jeremiah,30,24
+775,Jeremiah,31,40
+776,Jeremiah,32,44
+777,Jeremiah,33,26
+778,Jeremiah,34,22
+779,Jeremiah,35,19
+780,Jeremiah,36,32
+781,Jeremiah,37,21
+782,Jeremiah,38,28
+783,Jeremiah,39,18
+784,Jeremiah,40,16
+785,Jeremiah,41,18
+786,Jeremiah,42,22
+787,Jeremiah,43,13
+788,Jeremiah,44,30
+789,Jeremiah,45,5
+790,Jeremiah,46,28
+791,Jeremiah,47,7
+792,Jeremiah,48,47
+793,Jeremiah,49,39
+794,Jeremiah,50,46
+795,Jeremiah,51,64
+796,Jeremiah,52,34
+797,Lamentations,1,22
+798,Lamentations,2,22
+799,Lamentations,3,66
+800,Lamentations,4,22
+801,Lamentations,5,22
+802,Ezekiel,1,28
+803,Ezekiel,2,10
+804,Ezekiel,3,27
+805,Ezekiel,4,17
+806,Ezekiel,5,17
+807,Ezekiel,6,14
+808,Ezekiel,7,27
+809,Ezekiel,8,18
+810,Ezekiel,9,11
+811,Ezekiel,10,22
+812,Ezekiel,11,25
+813,Ezekiel,12,28
+814,Ezekiel,13,23
+815,Ezekiel,14,23
+816,Ezekiel,15,8
+817,Ezekiel,16,63
+818,Ezekiel,17,24
+819,Ezekiel,18,32
+820,Ezekiel,19,14
+821,Ezekiel,20,49
+822,Ezekiel,21,32
+823,Ezekiel,22,31
+824,Ezekiel,23,49
+825,Ezekiel,24,27
+826,Ezekiel,25,17
+827,Ezekiel,26,21
+828,Ezekiel,27,36
+829,Ezekiel,28,26
+830,Ezekiel,29,21
+831,Ezekiel,30,26
+832,Ezekiel,31,18
+833,Ezekiel,32,32
+834,Ezekiel,33,33
+835,Ezekiel,34,31
+836,Ezekiel,35,15
+837,Ezekiel,36,38
+838,Ezekiel,37,28
+839,Ezekiel,38,23
+840,Ezekiel,39,29
+841,Ezekiel,40,49
+842,Ezekiel,41,26
+843,Ezekiel,42,20
+844,Ezekiel,43,27
+845,Ezekiel,44,31
+846,Ezekiel,45,25
+847,Ezekiel,46,24
+848,Ezekiel,47,23
+849,Ezekiel,48,35
+850,Daniel,1,21
+851,Daniel,2,49
+852,Daniel,3,30
+853,Daniel,4,37
+854,Daniel,5,31
+855,Daniel,6,28
+856,Daniel,7,28
+857,Daniel,8,27
+858,Daniel,9,27
+859,Daniel,10,21
+860,Daniel,11,45
+861,Daniel,12,13
+862,Hosea,1,11
+863,Hosea,2,23
+864,Hosea,3,5
+865,Hosea,4,19
+866,Hosea,5,15
+867,Hosea,6,11
+868,Hosea,7,16
+869,Hosea,8,14
+870,Hosea,9,17
+871,Hosea,10,15
+872,Hosea,11,12
+873,Hosea,12,14
+874,Hosea,13,16
+875,Hosea,14,9
+876,Joel,1,20
+877,Joel,2,32
+878,Joel,3,21
+879,Amos,1,15
+880,Amos,2,16
+881,Amos,3,15
+882,Amos,4,13
+883,Amos,5,27
+884,Amos,6,14
+885,Amos,7,17
+886,Amos,8,14
+887,Amos,9,15
+888,Obadiah,1,21
+889,Jonah,1,17
+890,Jonah,2,10
+891,Jonah,3,10
+892,Jonah,4,11
+893,Micah,1,16
+894,Micah,2,13
+895,Micah,3,12
+896,Micah,4,13
+897,Micah,5,15
+898,Micah,6,16
+899,Micah,7,20
+900,Nahum,1,15
+901,Nahum,2,13
+902,Nahum,3,19
+903,Habakkuk,1,17
+904,Habakkuk,2,20
+905,Habakkuk,3,19
+906,Zephaniah,1,18
+907,Zephaniah,2,15
+908,Zephaniah,3,20
+909,Haggai,1,15
+910,Haggai,2,23
+911,Zechariah,1,21
+912,Zechariah,2,13
+913,Zechariah,3,10
+914,Zechariah,4,14
+915,Zechariah,5,11
+916,Zechariah,6,15
+917,Zechariah,7,14
+918,Zechariah,8,23
+919,Zechariah,9,17
+920,Zechariah,10,12
+921,Zechariah,11,17
+922,Zechariah,12,14
+923,Zechariah,13,9
+924,Zechariah,14,21
+925,Malachi,1,14
+926,Malachi,2,17
+927,Malachi,3,18
+928,Malachi,4,6
+929,Matthew,1,25
+930,Matthew,2,23
+931,Matthew,3,17
+932,Matthew,4,25
+933,Matthew,5,48
+934,Matthew,6,34
+935,Matthew,7,29
+936,Matthew,8,34
+937,Matthew,9,38
+938,Matthew,10,42
+939,Matthew,11,30
+940,Matthew,12,50
+941,Matthew,13,58
+942,Matthew,14,36
+943,Matthew,15,39
+944,Matthew,16,28
+945,Matthew,17,27
+946,Matthew,18,35
+947,Matthew,19,30
+948,Matthew,20,34
+949,Matthew,21,46
+950,Matthew,22,46
+951,Matthew,23,39
+952,Matthew,24,51
+953,Matthew,25,46
+954,Matthew,26,75
+955,Matthew,27,66
+956,Matthew,28,20
+957,Mark,1,45
+958,Mark,2,28
+959,Mark,3,35
+960,Mark,4,41
+961,Mark,5,43
+962,Mark,6,56
+963,Mark,7,37
+964,Mark,8,38
+965,Mark,9,50
+966,Mark,10,52
+967,Mark,11,33
+968,Mark,12,44
+969,Mark,13,37
+970,Mark,14,72
+971,Mark,15,47
+972,Mark,16,20
+973,Luke,1,80
+974,Luke,2,52
+975,Luke,3,38
+976,Luke,4,44
+977,Luke,5,39
+978,Luke,6,49
+979,Luke,7,50
+980,Luke,8,56
+981,Luke,9,62
+982,Luke,10,42
+983,Luke,11,54
+984,Luke,12,59
+985,Luke,13,35
+986,Luke,14,35
+987,Luke,15,32
+988,Luke,16,31
+989,Luke,17,37
+990,Luke,18,43
+991,Luke,19,48
+992,Luke,20,47
+993,Luke,21,38
+994,Luke,22,71
+995,Luke,23,56
+996,Luke,24,53
+997,John,1,51
+998,John,2,25
+999,John,3,36
+1000,John,4,54
+1001,John,5,47
+1002,John,6,71
+1003,John,7,53
+1004,John,8,59
+1005,John,9,41
+1006,John,10,42
+1007,John,11,57
+1008,John,12,50
+1009,John,13,38
+1010,John,14,31
+1011,John,15,27
+1012,John,16,33
+1013,John,17,26
+1014,John,18,40
+1015,John,19,42
+1016,John,20,31
+1017,John,21,25
+1018,Acts,1,26
+1019,Acts,2,47
+1020,Acts,3,26
+1021,Acts,4,37
+1022,Acts,5,42
+1023,Acts,6,15
+1024,Acts,7,60
+1025,Acts,8,40
+1026,Acts,9,43
+1027,Acts,10,48
+1028,Acts,11,30
+1029,Acts,12,25
+1030,Acts,13,52
+1031,Acts,14,28
+1032,Acts,15,41
+1033,Acts,16,40
+1034,Acts,17,34
+1035,Acts,18,28
+1036,Acts,19,41
+1037,Acts,20,38
+1038,Acts,21,40
+1039,Acts,22,30
+1040,Acts,23,35
+1041,Acts,24,27
+1042,Acts,25,27
+1043,Acts,26,32
+1044,Acts,27,44
+1045,Acts,28,31
+1046,Romans,1,32
+1047,Romans,2,29
+1048,Romans,3,31
+1049,Romans,4,25
+1050,Romans,5,21
+1051,Romans,6,23
+1052,Romans,7,25
+1053,Romans,8,39
+1054,Romans,9,33
+1055,Romans,10,21
+1056,Romans,11,36
+1057,Romans,12,21
+1058,Romans,13,14
+1059,Romans,14,23
+1060,Romans,15,33
+1061,Romans,16,27
+1062,1 Corinthians,1,31
+1063,1 Corinthians,2,16
+1064,1 Corinthians,3,23
+1065,1 Corinthians,4,21
+1066,1 Corinthians,5,13
+1067,1 Corinthians,6,20
+1068,1 Corinthians,7,40
+1069,1 Corinthians,8,13
+1070,1 Corinthians,9,27
+1071,1 Corinthians,10,33
+1072,1 Corinthians,11,34
+1073,1 Corinthians,12,31
+1074,1 Corinthians,13,13
+1075,1 Corinthians,14,40
+1076,1 Corinthians,15,58
+1077,1 Corinthians,16,24
+1078,2 Corinthians,1,24
+1079,2 Corinthians,2,17
+1080,2 Corinthians,3,18
+1081,2 Corinthians,4,18
+1082,2 Corinthians,5,21
+1083,2 Corinthians,6,18
+1084,2 Corinthians,7,16
+1085,2 Corinthians,8,24
+1086,2 Corinthians,9,15
+1087,2 Corinthians,10,18
+1088,2 Corinthians,11,33
+1089,2 Corinthians,12,21
+1090,2 Corinthians,13,14
+1091,Galatians,1,24
+1092,Galatians,2,21
+1093,Galatians,3,29
+1094,Galatians,4,31
+1095,Galatians,5,26
+1096,Galatians,6,18
+1097,Ephesians,1,23
+1098,Ephesians,2,22
+1099,Ephesians,3,21
+1100,Ephesians,4,32
+1101,Ephesians,5,33
+1102,Ephesians,6,24
+1103,Philippians,1,30
+1104,Philippians,2,30
+1105,Philippians,3,21
+1106,Philippians,4,23
+1107,Colossians,1,29
+1108,Colossians,2,23
+1109,Colossians,3,25
+1110,Colossians,4,18
+1111,1 Thessalonians,1,10
+1112,1 Thessalonians,2,20
+1113,1 Thessalonians,3,13
+1114,1 Thessalonians,4,18
+1115,1 Thessalonians,5,28
+1116,2 Thessalonians,1,12
+1117,2 Thessalonians,2,17
+1118,2 Thessalonians,3,18
+1119,1 Timothy,1,20
+1120,1 Timothy,2,15
+1121,1 Timothy,3,16
+1122,1 Timothy,4,16
+1123,1 Timothy,5,25
+1124,1 Timothy,6,21
+1125,2 Timothy,1,18
+1126,2 Timothy,2,26
+1127,2 Timothy,3,17
+1128,2 Timothy,4,22
+1129,Titus,1,16
+1130,Titus,2,15
+1131,Titus,3,15
+1132,Philemon,1,25
+1133,Hebrews,1,14
+1134,Hebrews,2,18
+1135,Hebrews,3,19
+1136,Hebrews,4,16
+1137,Hebrews,5,14
+1138,Hebrews,6,20
+1139,Hebrews,7,28
+1140,Hebrews,8,13
+1141,Hebrews,9,28
+1142,Hebrews,10,39
+1143,Hebrews,11,40
+1144,Hebrews,12,29
+1145,Hebrews,13,25
+1146,James,1,27
+1147,James,2,26
+1148,James,3,18
+1149,James,4,17
+1150,James,5,20
+1151,1 Peter,1,25
+1152,1 Peter,2,25
+1153,1 Peter,3,22
+1154,1 Peter,4,19
+1155,1 Peter,5,14
+1156,2 Peter,1,21
+1157,2 Peter,2,22
+1158,2 Peter,3,18
+1159,1 John,1,10
+1160,1 John,2,29
+1161,1 John,3,24
+1162,1 John,4,21
+1163,1 John,5,21
+1164,2 John,1,13
+1165,3 John,1,15
+1166,Jude,1,25
+1167,Revelation,1,20
+1168,Revelation,2,29
+1169,Revelation,3,22
+1170,Revelation,4,11
+1171,Revelation,5,14
+1172,Revelation,6,17
+1173,Revelation,7,17
+1174,Revelation,8,13
+1175,Revelation,9,21
+1176,Revelation,10,11
+1177,Revelation,11,19
+1178,Revelation,12,17
+1179,Revelation,13,18
+1180,Revelation,14,20
+1181,Revelation,15,8
+1182,Revelation,16,21
+1183,Revelation,17,18
+1184,Revelation,18,24
+1185,Revelation,19,21
+1186,Revelation,20,15
+1187,Revelation,21,27
+1188,Revelation,22,21

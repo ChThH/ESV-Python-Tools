@@ -102,7 +102,7 @@ passage_data = [None,
                 ('3 John', 1, [None, 15]),
                 ('Jude', 1, [None, 25]),
                 ('Revelation', 22, [None, 20, 29, 22, 11, 14, 17, 17, 13, 21, 11, 19, 17, 18, 20, 8, 21, 18, 24, 21, 15, 
-                27, 21])
+                                    27, 21])
                 ]
 
 # 17 verses are 'omitted' from the ESV New Testament text, resulting in a skipped verse number in the chapter. 
@@ -147,7 +147,7 @@ readables = [None,
              ('2 Maccabees', 15, [None, 36, 32, 40, 50, 27, 31, 42, 36, 29, 38, 38, 45, 26, 46, 39]),
              ('1 Esdras', 9, [None, 58, 30, 24, 63, 73, 34, 15, 96, 55]),
              ('Prayer of Manasseh', 1, [None, 15]),
-             ('Psalm 151', 1[None, 7]),
+             ('Psalm 151', 1, [None, 7]),
              ('3 Maccabees', 7, [None, 29, 33, 30, 21, 51, 41, 23]),
              ('2 Esdras', 16, [None, 40, 48, 35, 52, 56, 59, 140, 63, 47, 59, 46, 51, 58, 48, 63, 78]),
              ('4 Maccabees', 18, [None, 35, 24, 21, 26, 38, 35, 23, 29, 32, 21, 27, 19, 27, 20, 32, 25, 24, 24])
